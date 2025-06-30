@@ -7,7 +7,7 @@ import Navbar from '@/components/Navbar';
 export default function Home() {
   // ===== Editable Variables =====
   const candidateName = 'Javier Ignacio';
-  const tagline = 'Tu Voz, Tu Futuro';
+  const tagline = 'Tu Voz, Tu Futuros';
   const heroSubtitle = 'Comprometido con la seguridad, el desarrollo económico y la libertad.';
 
   const candidateBio = `
